@@ -1,133 +1,73 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+[Tu+Nombre]+👋;Full+Stack+Developer;Node.js+%7C+Java+%7C+Angular;Building+awesome+things+🚀" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://64.media.tumblr.com/13180470d069b188c03630f9a2e37c8c/f577f884a44b93f1-d0/s2048x3072/81e582888258525990281b3127606e788c1b2693.pnj" alt="Jerónimo Ávila Banner" width="100%" />
+</div>
+
+<br />
 
 <p align="center">
-  <a href="https://github.com/[tu-usuario]">
-    <img src="https://komarev.com/ghpvc/?username=[tu-usuario]&label=Profile%20views&color=00d4aa&style=flat" alt="Profile views" />
+  <a href="mailto:jeronimonavila765@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/[tu-linkedin]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:[tu-email]">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://linkedin.com/in/Jeronimo765" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
----
+<br />
 
-## 👨‍💻 About Me
+<table align="center" border="0" cellpadding="10" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h2 align="left">👨‍💻 Sobre Mí</h2>
+      <p>Desarrollador <b>Fullstack</b> apasionado por crear soluciones eficientes y escalables. Me especializo en el ecosistema moderno de desarrollo, aplicando buenas prácticas y arquitectura limpia.</p>
+      <p>🎯 Mi objetivo es transformar ideas complejas en productos digitales de alto impacto.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h2 align="left">🚀 Mi Stack Principal</h2>
+      <ul>
+        <li><b>Frontend:</b> Angular 17, HTML5, CSS3.</li>
+        <li><b>Backend:</b> Node.js, Java (Spring Boot).</li>
+        <li><b>DB:</b> MySQL / PostgreSQL.</li>
+        <li><b>Lenguajes:</b> TypeScript, JavaScript, Java.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-```javascript
-const developer = {
-  name:        "[Tu Nombre]",
-  role:        "Full Stack Developer",
-  location:    "Colombia 🇨🇴",
-  languages:   ["JavaScript", "Java", "SQL"],
-  frameworks:  ["Node.js", "Angular 17"],
-  databases:   ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
-  currentlyLearning: "Always something new 🚀",
-  funFact:     "I debug with console.log and I'm not ashamed 😄"
-};
-```
+<br />
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### ⚙️ Frameworks & Runtimes
-<p align="left">
+<h2 align="center">🛠️ Tecnologías y Herramientas</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular%2017-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-</p>
-
-### 🗄️ Databases — SQL & NoSQL
-<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### 🔧 Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-</p>
+<br />
 
----
+<h2 align="center">📊 Mis Estadísticas de GitHub</h2>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Jeronimo765&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeronimo765&layout=compact&theme=tokyonight&langs_count=6" width="100%" />
+      </td>
+    </tr>
+  </table>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeronimo765&theme=tokyonight" width="100%" alt="Jeronimo Streak" />
+</div>
 
-## 📊 GitHub Stats
+<br />
 
+<hr>
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=[tu-usuario]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=[tu-usuario]&theme=tokyonight&hide_border=true" />
+  Diseñado con ❤️ por Jerónimo Ávila | 2026 <br />
+  <img src="https://komarev.com/ghpvc/?username=Jeronimo765&color=00b4d8&style=flat-square&label=Vistas+del+Perfil" alt="Views" />
 </p>
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[tu-usuario]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[tu-usuario]&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[tu-usuario]&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/[tu-usuario]/[repo-1]">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=[tu-usuario]&repo=[repo-1]&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/[tu-usuario]/[repo-2]">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=[tu-usuario]&repo=[repo-2]&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-## 🎯 Currently
-
-- 🔭 Working on **[tu proyecto actual]**
-- 🌱 Learning **[tecnología que estás aprendiendo]**
-- 👯 Open to collaborate on **Full Stack projects**
-- 💬 Ask me about **Node.js, Java, Angular, SQL/NoSQL**
-- ⚡ Fun fact: **[algo divertido sobre ti]**
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4AA&height=100&section=footer" />
-</p>
-
-### GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jeronimo765&theme=dark)](https://git.io/streak-stats)
