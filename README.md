@@ -1,74 +1,61 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D4AA&height=200&section=header&text=Jeronimo765&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=22&animation=fadeIn)
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#050A10"/>
+      <stop offset="100%" style="stop-color:#0A1628"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D4AA"/>
+      <stop offset="100%" style="stop-color:#0099FF"/>
+    </linearGradient>
+    <linearGradient id="glowL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D4AA;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#00D4AA;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
 
-## Hey, I'm Jeronimo! 👋
+  <!-- Background -->
+  <rect width="900" height="220" fill="url(#bg)" rx="16"/>
 
-<p align="left">
-  <a href="https://github.com/Jeronimo765">
-    <img src="https://img.shields.io/badge/Jeronimo765-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:tucorreo@gmail.com">
-    <img src="https://img.shields.io/badge/tucorreo@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Jeronimo765&label=Profile+views&color=00d4aa&style=flat" />
-</p>
+  <!-- Glow accent left -->
+  <ellipse cx="80" cy="110" rx="180" ry="100" fill="url(#glowL)" opacity="0.6"/>
 
-- 🌍 I am a Full Stack Developer from **Colombia 🇨🇴**
-- 💼 Techstack: `Node.js` · `Java` · `Angular 17` · `JavaScript` · `SQL` · `NoSQL`
-- 🚀 Passionate about building scalable web applications
-- 📫 Open to collaborate on interesting projects
+  <!-- Decorative grid dots -->
+  <g opacity="0.08" fill="#00D4AA">
+    <circle cx="760" cy="30" r="2"/><circle cx="790" cy="30" r="2"/><circle cx="820" cy="30" r="2"/><circle cx="850" cy="30" r="2"/><circle cx="880" cy="30" r="2"/>
+    <circle cx="760" cy="55" r="2"/><circle cx="790" cy="55" r="2"/><circle cx="820" cy="55" r="2"/><circle cx="850" cy="55" r="2"/><circle cx="880" cy="55" r="2"/>
+    <circle cx="760" cy="80" r="2"/><circle cx="790" cy="80" r="2"/><circle cx="820" cy="80" r="2"/><circle cx="850" cy="80" r="2"/><circle cx="880" cy="80" r="2"/>
+    <circle cx="760" cy="105" r="2"/><circle cx="790" cy="105" r="2"/><circle cx="820" cy="105" r="2"/><circle cx="850" cy="105" r="2"/><circle cx="880" cy="105" r="2"/>
+  </g>
 
----
+  <!-- Decorative circle accent top-right -->
+  <circle cx="820" cy="160" r="90" fill="none" stroke="#00D4AA" stroke-width="0.5" opacity="0.2"/>
+  <circle cx="820" cy="160" r="60" fill="none" stroke="#0099FF" stroke-width="0.5" opacity="0.15"/>
 
-## 📊 GitHub Stats
+  <!-- Vertical accent bar -->
+  <rect x="100" y="55" width="4" height="110" fill="url(#accent)" rx="2"/>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeronimo765&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeronimo765&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+  <!-- Website label top right -->
+  <text x="870" y="28" font-family="'Courier New', monospace" font-size="11" fill="#00D4AA" opacity="0.7" text-anchor="end">github.com/Jeronimo765</text>
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeronimo765&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+  <!-- Main name -->
+  <text x="126" y="110" font-family="Arial Black, Arial, sans-serif" font-size="52" font-weight="900" fill="#FFFFFF" letter-spacing="-1">Jeronimo Avila</text>
 
----
+  <!-- Title line -->
+  <text x="128" y="148" font-family="Arial, sans-serif" font-size="26" font-weight="400" fill="#FFFFFF">
+    <tspan fill="#00D4AA" font-weight="700">Full Stack</tspan>
+    <tspan fill="#CCDDEE"> Developer</tspan>
+  </text>
 
-## 🛠️ Tech Stack
+  <!-- Underline accent below Full Stack -->
+  <rect x="128" y="153" width="112" height="3" fill="url(#accent)" rx="2"/>
 
-**Languages**
+  <!-- Email badge -->
+  <rect x="128" y="172" width="245" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.06" stroke="#00D4AA" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="143" y="190" font-family="'Courier New', monospace" font-size="12" fill="#00D4AA">✉</text>
+  <text x="160" y="190" font-family="Arial, sans-serif" font-size="12" fill="#AACCDD">jeroavila0@gmail.com</text>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frameworks & Runtimes**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular_17-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Databases — SQL & NoSQL**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeronimo765&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
-</p>
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0D1117&height=100&section=footer)
+  <!-- Colombia flag badge -->
+  <rect x="385" y="172" width="100" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.06" stroke="#00D4AA" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="400" y="190" font-family="Arial, sans-serif" font-size="13" fill="#AACCDD">🇨🇴 Colombia</text>
+</svg>
