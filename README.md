@@ -1,78 +1,4 @@
-<svg width="900" height="240" viewBox="0 0 900 240" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#020810"/>
-      <stop offset="60%" style="stop-color:#071020"/>
-      <stop offset="100%" style="stop-color:#040C1A"/>
-    </linearGradient>
-    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00E5B8"/>
-      <stop offset="100%" style="stop-color:#00AAFF"/>
-    </linearGradient>
-    <linearGradient id="glowBlue" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00AAFF;stop-opacity:0.18"/>
-      <stop offset="100%" style="stop-color:#00AAFF;stop-opacity:0"/>
-    </linearGradient>
-    <linearGradient id="glowTeal" x1="100%" y1="0%" x2="0%" y2="0%">
-      <stop offset="0%" style="stop-color:#00E5B8;stop-opacity:0.12"/>
-      <stop offset="100%" style="stop-color:#00E5B8;stop-opacity:0"/>
-    </linearGradient>
-    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" style="stop-color:#00AAFF;stop-opacity:0.07"/>
-      <stop offset="100%" style="stop-color:#020810;stop-opacity:0"/>
-    </radialGradient>
-  </defs>
-
-  <!-- Background -->
-  <rect width="900" height="240" fill="url(#bg)"/>
-
-  <!-- Subtle glow effects -->
-  <ellipse cx="900" cy="120" rx="350" ry="200" fill="url(#glowBlue)"/>
-  <ellipse cx="0" cy="120" rx="280" ry="160" fill="url(#glowTeal)"/>
-  <rect width="900" height="240" fill="url(#centerGlow)"/>
-
-  <!-- Decorative dot grid top-right -->
-  <g opacity="0.12" fill="#00E5B8">
-    <circle cx="700" cy="18" r="2.5"/><circle cx="730" cy="18" r="2.5"/><circle cx="760" cy="18" r="2.5"/><circle cx="790" cy="18" r="2.5"/><circle cx="820" cy="18" r="2.5"/><circle cx="850" cy="18" r="2.5"/><circle cx="880" cy="18" r="2.5"/>
-    <circle cx="700" cy="46" r="2.5"/><circle cx="730" cy="46" r="2.5"/><circle cx="760" cy="46" r="2.5"/><circle cx="790" cy="46" r="2.5"/><circle cx="820" cy="46" r="2.5"/><circle cx="850" cy="46" r="2.5"/><circle cx="880" cy="46" r="2.5"/>
-    <circle cx="700" cy="74" r="2.5"/><circle cx="730" cy="74" r="2.5"/><circle cx="760" cy="74" r="2.5"/><circle cx="790" cy="74" r="2.5"/><circle cx="820" cy="74" r="2.5"/><circle cx="850" cy="74" r="2.5"/><circle cx="880" cy="74" r="2.5"/>
-    <circle cx="700" cy="102" r="2.5"/><circle cx="730" cy="102" r="2.5"/><circle cx="760" cy="102" r="2.5"/><circle cx="790" cy="102" r="2.5"/><circle cx="820" cy="102" r="2.5"/><circle cx="850" cy="102" r="2.5"/><circle cx="880" cy="102" r="2.5"/>
-  </g>
-
-  <!-- Decorative circles right side -->
-  <circle cx="830" cy="180" r="110" fill="none" stroke="#00AAFF" stroke-width="0.6" opacity="0.15"/>
-  <circle cx="830" cy="180" r="76" fill="none" stroke="#00E5B8" stroke-width="0.6" opacity="0.12"/>
-  <circle cx="830" cy="180" r="44" fill="none" stroke="#00AAFF" stroke-width="0.6" opacity="0.10"/>
-
-  <!-- Left vertical accent bar -->
-  <rect x="72" y="48" width="5" height="144" fill="url(#accentGrad)" rx="2.5"/>
-
-  <!-- Top-right site label -->
-  <text x="875" y="26" font-family="'Courier New', Courier, monospace" font-size="12" fill="#00E5B8" opacity="0.65" text-anchor="end" letter-spacing="0.5">github.com/Jeronimo765</text>
-
-  <!-- Main name - large bold white -->
-  <text x="100" y="118" font-family="Arial Black, 'Arial Bold', Gadget, sans-serif" font-size="58" font-weight="900" fill="#FFFFFF" letter-spacing="-1.5">Jeronimo Avila</text>
-
-  <!-- Subtitle: Full Stack + Developer -->
-  <text x="102" y="160" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">
-    <tspan fill="#00E5B8" font-weight="900" letter-spacing="0.5">Full Stack</tspan><tspan fill="#D0E8FF" font-weight="400" letter-spacing="0.3"> Developer</tspan>
-  </text>
-
-  <!-- Underline accent under "Full Stack" -->
-  <rect x="102" y="166" width="130" height="3.5" fill="url(#accentGrad)" rx="2"/>
-
-  <!-- Info row: location + email -->
-  <g>
-    <!-- Location badge -->
-    <rect x="102" y="186" width="150" height="30" rx="7" fill="#FFFFFF" fill-opacity="0.05" stroke="#00E5B8" stroke-width="0.8" stroke-opacity="0.45"/>
-    <text x="120" y="206" font-family="Arial, sans-serif" font-size="13" fill="#A8D8EA">🇨🇴 Armenia, Colombia</text>
-
-    <!-- Email badge -->
-    <rect x="264" y="186" width="230" height="30" rx="7" fill="#FFFFFF" fill-opacity="0.05" stroke="#00AAFF" stroke-width="0.8" stroke-opacity="0.45"/>
-    <text x="282" y="206" font-family="'Courier New', monospace" font-size="13" fill="#00E5B8">✉</text>
-    <text x="300" y="206" font-family="Arial, sans-serif" font-size="13" fill="#A8D8EA">jeroavila0@gmail.com</text>
-  </g>
-</svg>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A2540,100:00D4AA&height=250&section=header&text=Jeronimo%20Avila&fontSize=65&fontColor=FFFFFF&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Armenia%2C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descSize=22&descAlignY=62&descColor=A8D8EA&animation=fadeIn)
 
 ## Hey, I'm Jeronimo! 👋
 
@@ -105,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeronimo765&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeronimo765&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&langs_count=8" />
 </p>
 
 ---
@@ -148,7 +74,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeronimo765&theme=tokyonight&no-frame=true&column=6&margin-w=10&bg_color=0D1117" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jeronimo765&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
 </p>
 
 ---
@@ -156,11 +82,9 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeronimo765&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF&area=true&area_color=00D4AA" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeronimo765&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF&area=true" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0D1117&height=120&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
-</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0D1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
