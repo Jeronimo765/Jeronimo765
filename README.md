@@ -1,6 +1,64 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:020810,40:040C1A,100:071020&height=220&text=Jeronimo%20Avila&fontSize=62&fontColor=FFFFFF&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20%F0%9F%87%A8%F0%9F%87%B4%20Armenia%2C%20Colombia&descSize=20&descAlignY=65&descColor=00D4AA&animation=fadeIn)
+<svg width="900" height="230" viewBox="0 0 900 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#020810"/>
+      <stop offset="50%" stop-color="#071020"/>
+      <stop offset="100%" stop-color="#040D1C"/>
+    </linearGradient>
+    <linearGradient id="barGrad" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#00E5B8"/>
+      <stop offset="100%" stop-color="#0099FF"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#00E5B8"/>
+      <stop offset="100%" stop-color="#0099FF"/>
+    </linearGradient>
+  </defs>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D4AA&background=0D1117&center=true&vCenter=true&width=900&height=45&lines=Full+Stack+Developer+%7C+Node.js+%7C+Java+%7C+Angular+17;SQL+%7C+NoSQL+%7C+JavaScript+%7C+Colombia+%F0%9F%87%A8%F0%9F%87%B4;Open+to+collaborate+on+amazing+projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <!-- Background -->
+  <rect width="900" height="230" fill="url(#bgGrad)"/>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="5" height="230" fill="url(#barGrad)"/>
+
+  <!-- Dot grid top-right -->
+  <g fill="#00E5B8" opacity="0.13">
+    <circle cx="680" cy="22" r="2.8"/><circle cx="710" cy="22" r="2.8"/><circle cx="740" cy="22" r="2.8"/><circle cx="770" cy="22" r="2.8"/><circle cx="800" cy="22" r="2.8"/><circle cx="830" cy="22" r="2.8"/><circle cx="860" cy="22" r="2.8"/><circle cx="890" cy="22" r="2.8"/>
+    <circle cx="680" cy="52" r="2.8"/><circle cx="710" cy="52" r="2.8"/><circle cx="740" cy="52" r="2.8"/><circle cx="770" cy="52" r="2.8"/><circle cx="800" cy="52" r="2.8"/><circle cx="830" cy="52" r="2.8"/><circle cx="860" cy="52" r="2.8"/><circle cx="890" cy="52" r="2.8"/>
+    <circle cx="680" cy="82" r="2.8"/><circle cx="710" cy="82" r="2.8"/><circle cx="740" cy="82" r="2.8"/><circle cx="770" cy="82" r="2.8"/><circle cx="800" cy="82" r="2.8"/><circle cx="830" cy="82" r="2.8"/><circle cx="860" cy="82" r="2.8"/><circle cx="890" cy="82" r="2.8"/>
+    <circle cx="680" cy="112" r="2.8"/><circle cx="710" cy="112" r="2.8"/><circle cx="740" cy="112" r="2.8"/><circle cx="770" cy="112" r="2.8"/><circle cx="800" cy="112" r="2.8"/><circle cx="830" cy="112" r="2.8"/><circle cx="860" cy="112" r="2.8"/><circle cx="890" cy="112" r="2.8"/>
+  </g>
+
+  <!-- Decorative circles right -->
+  <circle cx="840" cy="170" r="105" fill="none" stroke="#00AAFF" stroke-width="0.7" opacity="0.14"/>
+  <circle cx="840" cy="170" r="72" fill="none" stroke="#00E5B8" stroke-width="0.7" opacity="0.11"/>
+  <circle cx="840" cy="170" r="40" fill="none" stroke="#0099FF" stroke-width="0.7" opacity="0.09"/>
+
+  <!-- github.com label -->
+  <text x="28" y="34" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00E5B8" opacity="0.60" letter-spacing="0.8">github.com/Jeronimo765</text>
+
+  <!-- Main name -->
+  <text x="26" y="112" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="62" font-weight="900" fill="#FFFFFF" letter-spacing="-1">Jeronimo Avila</text>
+
+  <!-- Full Stack (teal) + Developer (light) -->
+  <text x="28" y="155" font-family="Arial, Helvetica, sans-serif" font-size="30">
+    <tspan font-weight="900" fill="#00E5B8">Full Stack</tspan><tspan font-weight="400" fill="#C8DFF0"> Developer</tspan>
+  </text>
+
+  <!-- Underline accent -->
+  <rect x="28" y="162" width="128" height="3.5" fill="url(#lineGrad)" rx="2"/>
+
+  <!-- Location badge -->
+  <rect x="28" y="180" width="178" height="30" rx="7" fill="#FFFFFF" fill-opacity="0.05" stroke="#00E5B8" stroke-width="0.9" stroke-opacity="0.45"/>
+  <text x="44" y="200" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A8D8EA">co Armenia, Colombia</text>
+
+  <!-- Email badge -->
+  <rect x="218" y="180" width="230" height="30" rx="7" fill="#FFFFFF" fill-opacity="0.05" stroke="#0099FF" stroke-width="0.9" stroke-opacity="0.45"/>
+  <text x="234" y="200" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#00E5B8">&#9993;</text>
+  <text x="252" y="200" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A8D8EA">jeroavila0@gmail.com</text>
+</svg>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00D4AA&background=0D1117&center=true&vCenter=true&width=900&height=40&lines=Full+Stack+Developer+%7C+Node.js+%7C+Java+%7C+Angular+17;SQL+%7C+NoSQL+%7C+JavaScript+%7C+Colombia+%F0%9F%87%A8%F0%9F%87%B4;Open+to+collaborate+on+amazing+projects+%F0%9F%9A%80" alt="Typing SVG" />
 
 ---
 
@@ -91,4 +149,4 @@
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:071020,100:020810&height=60&text=Thanks%20for%20visiting!%20%F0%9F%9A%80&fontSize=18&fontColor=00D4AA&fontAlignY=55&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0D1117&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=ffffff&fontAlignY=65)
