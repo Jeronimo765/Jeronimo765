@@ -1,8 +1,8 @@
-<div align="center">
-  <img src="https://64.media.tumblr.com/13180470d069b188c03630f9a2e37c8c/f577f884a44b93f1-d0/s2048x3072/81e582888258525990281b3127606e788c1b2693.pnj" alt="Jerónimo Ávila Banner" width="100%" />
-</div>
+# Jerónimo Ávila | Fullstack Developer 👋
 
-<br />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kyechan9ab/capsule-render/master/api?type=waving&color=00b4d8&height=250&section=header&text=Jerónimo%20Ávila&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" alt="Banner Jerónimo Ávila" />
+</p>
 
 <p align="center">
   <a href="mailto:jeronimonavila765@gmail.com">
